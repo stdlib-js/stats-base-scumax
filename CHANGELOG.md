@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2024-12-29)
+
+<section class="features">
+
+### Features
+
+-   [`a5086e7`](https://github.com/stdlib-js/stdlib/commit/a5086e783cf46d8a92ee065d4f7bd8b29e832f5d) - add C ndarray interface and refactor implementation for `stats/base/scumax` [(#4344)](https://github.com/stdlib-js/stdlib/pull/4344)
+
+</section>
+
+<!-- /.features -->
 
 <section class="issues">
 
@@ -24,6 +34,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`a5086e7`](https://github.com/stdlib-js/stdlib/commit/a5086e783cf46d8a92ee065d4f7bd8b29e832f5d) - **feat:** add C ndarray interface and refactor implementation for `stats/base/scumax` [(#4344)](https://github.com/stdlib-js/stdlib/pull/4344) _(by Aayush Khanna)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`f8dc5fc`](https://github.com/stdlib-js/stdlib/commit/f8dc5fce6476df26e8703b8af8028dfd1477a515) - **docs:** fix C lint errors [(#3249)](https://github.com/stdlib-js/stdlib/pull/3249) _(by Neeraj Pathak, Athan Reines)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
@@ -40,8 +51,9 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Neeraj Pathak
 -   Philipp Burckhardt
