@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-29)
+## Unreleased (2025-01-02)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`095586c`](https://github.com/stdlib-js/stdlib/commit/095586cf396939fe7379ea9cee817bc0d77e2fea) - **style:** fix indentation _(by Philipp Burckhardt)_
 -   [`a5086e7`](https://github.com/stdlib-js/stdlib/commit/a5086e783cf46d8a92ee065d4f7bd8b29e832f5d) - **feat:** add C ndarray interface and refactor implementation for `stats/base/scumax` [(#4344)](https://github.com/stdlib-js/stdlib/pull/4344) _(by Aayush Khanna)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`f8dc5fc`](https://github.com/stdlib-js/stdlib/commit/f8dc5fce6476df26e8703b8af8028dfd1477a515) - **docs:** fix C lint errors [(#3249)](https://github.com/stdlib-js/stdlib/pull/3249) _(by Neeraj Pathak, Athan Reines)_
